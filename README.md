@@ -19,6 +19,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 - <b>Remote Desktop Protocol</b>
 - <b>Windows Event Viewer</b>
 - <b>Log Analytics Workspace</b>
+- <b>Kusto Query Language</b>
 - <b>Sentinel Workbook</b>
 - <b>Azure</b>
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
